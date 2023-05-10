@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div> <h1 aligin="center"> Hi , I'm Azizbek </h1> </div>
+<h1 aligin="center"> Hi , I'm Azizbek </h1>
 <!--
 **Doniyorov-Aziz/Doniyorov-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
