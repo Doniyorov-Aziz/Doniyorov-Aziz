@@ -9,9 +9,8 @@
     <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="80px" height="30px"></code>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
     
-   
+  
 ### 🔥 &nbsp; My Stats :
 <div>
 <img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doniyorov-Aziz&theme=gotham" width = "63%"/>
