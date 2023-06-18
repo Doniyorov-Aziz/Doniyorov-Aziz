@@ -1,5 +1,5 @@
 
-<h2 align='center'>Hi , I'm  Azizbek 👨‍💻</h2>
+<h2 align='center'>Hi ,  I'm  Azizbek 👨‍💻</h2>
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 
