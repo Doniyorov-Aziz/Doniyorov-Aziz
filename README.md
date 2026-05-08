@@ -2,7 +2,7 @@
 <h3 align="center">Database Administrator | Java Developer  |  DWH </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Database+Administrator+at+BRB+Bank;Java+Backend+Developer;PostgreSQL+%7C+Oracle+%7C+Big+Data+DWH+;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Database+Administrator+at+BRB+Bank;Java+Backend+Developer;PostgreSQL+%7C+Oracle+%7C+Big+Data+|+DWH+;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
