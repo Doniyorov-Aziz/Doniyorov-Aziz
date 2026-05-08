@@ -13,7 +13,7 @@
   
 ### 🔥 &nbsp; My Stats :
 <div>
-<img alt="card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doniyorov-Aziz&theme=gotham" width = "63%"/>
+
 <img align="right" alt="card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyorov-Aziz&layout=compact&theme=gotham" width = "33%"/>
 </div>
 <br>
